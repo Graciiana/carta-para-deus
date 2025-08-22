@@ -1,6 +1,6 @@
 # carta-para-deus
 
-#Descrição
+## Descrição
 "Carta para Deus" é um mini programa que permite ao usuário escrever suas mensagens, pedidos e agradecimentos a Deus de forma privada e organizada. Serve como um diário espiritual digital.
 
 ## Funcionalidades
